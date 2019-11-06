@@ -84,8 +84,8 @@
 .advert{
 	height: 350px;
   width: 800px;
-  margin-left: auto;
-  margin-top: auto;
+  margin-left:300px;
+  margin-right:300px;
 	background-color: white;
 	background-image: url('../images/content.jpg');
 	background-repeat: no-repeat;
