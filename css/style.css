@@ -82,11 +82,11 @@
   margin-top: 400px;
 }
 .advert{
-	height: 270px;
+	
 	background-color: white;
 	background-image: url('../images/content.jpg');
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: 80% 80%;
 }
 
 .about-section p{
