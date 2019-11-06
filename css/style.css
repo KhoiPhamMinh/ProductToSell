@@ -21,7 +21,7 @@
 .logo {
     display: inline-block;
     vertical-align: top;
-    width: 330px;
+    width: 256px;
     height: 90px;
 }
 .navbar{
@@ -73,7 +73,7 @@
 .footer p{
 	line-height:90px;
 	text-align: center;
-	color: #d80404;
+	color: black;
 }
 .content{
 	width: 80%;
