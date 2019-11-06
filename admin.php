@@ -47,7 +47,7 @@
 		}
 		?>
 			</table>
-		<a href="./addproduct.php">New Product</a>
+		<a href="./addproduct.php" class="button">Add Product</a>
 		</div>
 
 	</div>
