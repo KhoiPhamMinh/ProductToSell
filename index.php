@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>ATN store</title>
+
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -13,7 +14,8 @@ require_once("./db.php");
 <?php require_once("./left.php");?>
 
 
-<div style="position: absolute; top:450px; left:300px; width:800px; height:200px">
+
+<div style="position: absolute; top:450px; left:300px; width:800px; height:400px">
 <?php 
 		$sql = "Select * from product";
 		$pros = query($sql);
