@@ -1,3 +1,3 @@
 <div class="footer">
-<p> Blue Bird. </p>
+<p>ATN Store.</p>
 </div>
