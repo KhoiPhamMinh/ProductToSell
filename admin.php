@@ -8,6 +8,7 @@
 	<?php 
 	require_once("./db.php");
 	?>
+		<DIV class= "adminbg">
 		<div class="second">Product List</div>	
 		
 		<div class="third">

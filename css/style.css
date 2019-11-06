@@ -180,3 +180,7 @@ height: 200px;
   background-repeat: no-repeat;
   background-image: url("../images/ad.jpg");
 }
+
+.adminbg{
+  background-image: url("../images/ad.jpg");
+}
