@@ -10,7 +10,7 @@
 	?>
 		<DIV class= "adminbg">
 		<div class="second">
-			<h1> Product List </h1>
+			<h1> <center> Product List </center></h1>
 		
 		<div class="third">
 			<table border="1" cellspacing="0">
