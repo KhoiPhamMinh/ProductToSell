@@ -23,6 +23,7 @@
 					<th>Details</th>
 					<th>Action</th>
 				</tr>
+
 		<?php 
 		$sql = "Select * from product";
 		$pros = query($sql);
@@ -38,7 +39,8 @@
 					<td><?=$pros[$i][5]?></td>
 					<td>
 					<li><a href="update_function.php?pid=<?=$pros[$i][0]?>"><button>Update</button></a></li><br/>
-					<li><a href="delete_action.php?pid=<?=$pros[$i][0]?>"><button>Delete</button></a></li><br/>	
+					<li><a href="delete_action.php?pid=<?=$pros[$i][0]?>"><button>Delete</button></a></li><br/>
+						
 					</td>
 					</form>
 				</tr>
