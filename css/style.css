@@ -83,6 +83,7 @@
 }
 .advert{
 	height: 350px;
+  width: 800px;
 	background-color: white;
 	background-image: url('../images/content.jpg');
 	background-repeat: no-repeat;
