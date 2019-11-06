@@ -9,7 +9,8 @@
 	require_once("./db.php");
 	?>
 		<DIV class= "adminbg">
-		<div class="second">Product List</div>	
+		<div class="second">
+			<h1> Product List </h1>
 		
 		<div class="third">
 			<table border="1" cellspacing="0">
