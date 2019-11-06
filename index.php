@@ -34,9 +34,9 @@ require_once("./db.php");
 		?>
 		</div>
 
--<?php 
+<?php 
 -		require_once("./right.php");?>		
-+				
+				
 <?php require_once("./bottom.php");?>
 </body>
 </html>
